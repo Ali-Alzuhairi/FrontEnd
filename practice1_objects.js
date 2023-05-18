@@ -14,8 +14,8 @@ let person1 = {
                 lastName: "H",
                 age: 18,
                 company: {
-                  companyName: "Apple",
-                  location: "California",
+                companyName: "Apple",
+                location: "California",
                 }
               };
 
